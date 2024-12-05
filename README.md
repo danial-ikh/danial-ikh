@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi there I am a passionate website and Ui/Ux developer with a mission to create attractive websites and designs.
+hi there, I am a passionate website and Ui/Ux developer with a mission to create attractive websites and designs.
 
 
 ## 🌐 Socials:
